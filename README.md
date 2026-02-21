@@ -18,6 +18,14 @@ A simple Python CLI program that assigns grades based on student marks. The user
 - Grading Logic Implementation
 - Modular Code Design
 
+# Skills Used
+- Python loops & conditional statements
+- Arithmetic calculations for grading
+- User input handling & validation
+- Dictionaries for storing data
+- Modular code design
+- Problem-solving & logical thinking
+
 # How to Use
 1. Run `marks_grading.py`
 2. Enter marks when prompted
